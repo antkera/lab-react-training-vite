@@ -64,3 +64,35 @@
   margin: 20px;
   text-align: ;
 }
+#colorCard{
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+  border-radius: 20px;
+  margin: 1%;
+  height: 400px;
+  
+}
+#creditCards{
+  display: flex;
+}
+#cardNum{
+  font-size: 50px;
+  margin: 10px;
+
+
+}
+#logo{
+  width: 100px;
+  margin: 40px;
+}
+#logoContainer{
+  display: flex;
+  justify-content: end;
+}
+.flex{
+  display: flex;
+}
+.column{
+  flex-direction: column;
+}

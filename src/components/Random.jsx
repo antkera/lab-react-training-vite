@@ -1,6 +1,6 @@
 function Random (prop) {
     const {min, max} = prop;
-    const numRandom = Math.floor(Math.random()*(max - min))+ min
+    const numRandom = Math.floor(Math.random()*(max +1 - min))+ min
     const arrow = "=>"
 
 

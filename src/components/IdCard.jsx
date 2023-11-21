@@ -29,7 +29,7 @@ function IdCard(prop) {
 
         <p>
           <strong>Birth:</strong>
-          {birth}
+          {birth.toDateString()}
         </p>
       </div>
     </div>
