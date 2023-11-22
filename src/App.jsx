@@ -126,9 +126,10 @@ function App() {
         ]}
       />
       <hr />
-      <NumbersTable limit={12} />
+      <NumbersTable limit={25} />
     </div>
   );
 }
 
 export default App;
+// 

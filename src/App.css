@@ -110,3 +110,19 @@
   min-height: 800px;
   min-width: 800px;
 }
+.tabla{
+  border: solid;
+  
+  font-size: 100px;
+
+}
+
+.tabla td{
+  border: solid;
+  margin: 0;
+  padding: 20px;
+
+}
+.red{
+  background-color: red;
+}
